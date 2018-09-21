@@ -1,5 +1,5 @@
 # C Programming Tutorial
-This project is a basic C Tutorial. The target audience if for the students who come to the Student Electronic Resource Center at the University of Pittsburgh for help.
+This project is a basic C Tutorial. The target audience is any student who goes to the Student Electronic Resource Center at the University of Pittsburgh for help.
 
 This tutorial walks through the creation of a C program assuming that you know little more than how to use your web browser and to copy and paste text into a text file. Unlike other tutorials, this will also teach the basics of programing while including important best practices like automated build procedures and testing. You should be able to follow this tutorial on any operating system.
 
