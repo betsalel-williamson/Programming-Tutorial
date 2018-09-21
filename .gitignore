@@ -1,0 +1,9 @@
+# Temporary files
+*.exe
+*.out
+*.log
+**_**
+*.tclPreview
+**~**
+~*
+*.o
