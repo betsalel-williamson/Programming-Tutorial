@@ -29,7 +29,7 @@ expect {
 # What can we do to make this command exit with success?
 # There are multiple ways to go about this.
 # Method one, is to simply change the text in the expect
-# command from "Hello world." to "Hello World!"
+# command from "Hello world." to "Hello World from TCL/Expect!"
 # Method two is to change the text to be more flexible
 # and replace "Hello world." with the text between the
 # `` characters `-nocase "hello world"`.
