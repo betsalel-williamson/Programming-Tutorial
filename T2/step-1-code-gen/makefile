@@ -1,3 +1,9 @@
+# The author disclaims copyright to this source code.  In place of
+# a legal notice, here is a blessing:
+#    May you do good and not evil.
+#    May you find forgiveness for yourself and forgive others.
+#    May you share freely, never taking more than you give.
+
 # https://stackoverflow.com/questions/1079832/how-can-i-configure-my-makefile-for-debug-and-release-builds#1080180
 # Author: ffhaddad , https://stackoverflow.com/users/1952377/ffhaddad
 # Compiler flags
