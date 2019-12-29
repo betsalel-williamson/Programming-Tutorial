@@ -2,6 +2,12 @@
 # This first line is called a shebang (pronounced Sha-Bang) and
 # will tell the shell what program to use for the following text.
 
+# The author disclaims copyright to this source code.  In place of
+# a legal notice, here is a blessing:
+#    May you do good and not evil.
+#    May you find forgiveness for yourself and forgive others.
+#    May you share freely, never taking more than you give.
+
 # Our first line of code we tell the expect program to run a program!
 # The program to run is `echo`.
 # The echo program will display text to the shell, in this case
