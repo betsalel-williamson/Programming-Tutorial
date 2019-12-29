@@ -5,11 +5,11 @@ This tutorial walks through the creation of a C program that generates a code an
 
 The tutorial is located at <https://github.com/betsalel-williamson/C-Programming-Tutorial/wiki>.
 
-The contents of this project are copyright 2018 Betsalel "Saul" Williamson <saul.williamson@ieee.org> . For questions, comments, or suggestions about this tutorial contact him.
-
 The author disclaims copyright to this source code.  In place of a legal notice, here is a blessing:
  *    May you do good and not evil.
  *    May you find forgiveness for yourself and forgive others.
  *    May you share freely, never taking more than you give.
+
+For questions, comments, or suggestions about this tutorial contact Betsalel (Saul) Williamson <mailto:saul.williamson@ieee.org>.
 
 This was developed with guidance from the founders of the University of Pittsburgh's Student Electronics Resource Center (SERC).  Check out their website at [sercpitt.weebly.com](https://sercpitt.weebly.com/) for other cool engineering tutorials and resources.
