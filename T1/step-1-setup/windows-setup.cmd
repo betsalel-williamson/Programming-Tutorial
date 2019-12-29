@@ -3,6 +3,13 @@
 setlocal
 :: The `setLocal` command ensures that any variables that are set do not exist after the script exits.
 
+:: The author disclaims copyright to this source code.  In place of
+:: a legal notice, here is a blessing:
+::    May you do good and not evil.
+::    May you find forgiveness for yourself and forgive others.
+::    May you share freely, never taking more than you give.
+
+
 echo Checking system 32 or 64 bit...
 reg Query "HKLM\Hardware\Description\System\CentralProcessor\0" | find /i "x86" > NUL && set OS=32BIT || set OS=64BIT
 if %OS%==32BIT (set cygwinUrl=https://cygwin.com/setup-x86.exe
