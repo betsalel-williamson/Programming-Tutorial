@@ -12,4 +12,4 @@ The author disclaims copyright to this source code.  In place of a legal notice,
 
 For questions, comments, or suggestions about this tutorial contact Betsalel (Saul) Williamson [saul.williamson@ieee.org](mailto:saul.williamson@ieee.org).
 
-This was developed with guidance from the founders of the University of Pittsburgh's Student Electronics Resource Center (SERC).  Check out their website at [sercpitt.weebly.com](https://sercpitt.weebly.com/) for other cool engineering tutorials and resources.
+This was developed with guidance from the founders of the University of Pittsburgh's Student Electronics Resource Center (SERC) and tested in a classroom setting with students.  For other cool engineering tutorials and resources, check out SERC's website at [sercpitt.weebly.com](https://sercpitt.weebly.com/) .
