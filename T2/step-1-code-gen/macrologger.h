@@ -96,26 +96,26 @@ static inline char *timenow();
 #endif
 
 static inline char *timenow() {
-   static char buffer[64];
-   time_t rawtime;
-   struct tm *timeinfo;
-   time(&rawtime);
-   timeinfo = localtime(&rawtime);
-   strftime(buffer, 64, "%Y-%m-%d %H:%M:%S", timeinfo);
-   return buffer;
+  static char buffer[64];
+  time_t rawtime;
+  struct tm *timeinfo;
+  time( &rawtime );
+  timeinfo = localtime( &rawtime );
+  strftime( buffer, 64, "%Y-%m-%d %H:%M:%S", timeinfo );
+  return buffer;
 }
 
 #ifdef __OBJC__
 
-static inline void objc_print(NSString *format, ...) {
-   AUTORELEASEPOOL_BEGIN
-   va_list args;
-   va_start(args, format);
-   NSString *logStr = [[NSString alloc] initWithFormat:format arguments:args];
-   fprintf(stderr, "%s", [logStr UTF8String]);
-   RELEASE(logStr);
-   va_end(args);
-   AUTORELEASEPOOL_END
+static inline void objc_print( NSString *format, ... ) {
+  AUTORELEASEPOOL_BEGIN
+  va_list args;
+  va_start( args, format );
+  NSString *logStr = [[NSString alloc] initWithFormat:format arguments:args];
+  fprintf( stderr, "%s", [logStr UTF8String] );
+  RELEASE( logStr );
+  va_end( args );
+  AUTORELEASEPOOL_END
 }
 
 #endif

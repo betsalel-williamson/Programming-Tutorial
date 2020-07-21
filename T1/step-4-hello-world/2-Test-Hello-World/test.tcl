@@ -26,9 +26,9 @@ expect {
 expect eof
 catch wait result
 if {[lindex $result 3] == 0} {
-	puts "Exited successfully with code [lindex $result 3].\n"
+	puts "Exited successfully.\n"
 } else {
-	puts "Test failed.\n"
+	puts "Test failed with code [lindex $result 3].\n"
 }
 
 ### Test 2 ###
@@ -45,9 +45,9 @@ expect eof
 catch wait result
 
 if {[lindex $result 3] == 1} {
-	puts "Exited successfully with code [lindex $result 3].\n"
+	puts "Exited successfully.\n"
 } else {
-	puts "Test failed.\n"
+	puts "Test failed with code [lindex $result 3].\n"
 }
 
 # What happens when we try calling main 

@@ -1,4 +1,4 @@
-#!/bin/env expect
+#!/usr/bin/env expect
 
 # The author disclaims copyright to this source code.  In place of
 # a legal notice, here is a blessing:
@@ -42,7 +42,7 @@ if {[file exists SERC-Pitt-C-Programming-Tutorial]} {
 	}
 } 
 
-if { [catch { spawn git clone https://github.com/bhw7/SERC-Pitt-C-Programming-Tutorial.git } msg] } {
+if { [catch { spawn git clone https://github.com/betsalel-williamson/C-Programming-Tutorial.git } msg] } {
    puts "Something seems to have gone wrong:"
    puts "Information about it: $::errorInfo"
 }

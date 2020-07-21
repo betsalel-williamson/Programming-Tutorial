@@ -1,4 +1,4 @@
-#!/bin/env expect
+#!/usr/bin/env expect
 # This first line is called a shebang (pronounced Sha-Bang) and
 # will tell the shell what program to use for the following text.
 

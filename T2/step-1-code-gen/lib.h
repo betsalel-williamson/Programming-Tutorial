@@ -25,15 +25,15 @@
 // this is to indicate that this is a macro,
 // note that sometimes lower_case_snake is also used
 // this is a style convention
-#define STRING_NOT_SET 			NULL
-#define INT_NOT_SET 			-1
-#define CORRECT_CODE 			EXIT_SUCCESS
-#define INCORRECT_CODE 			EXIT_FAILURE
-#define INVALID_USER_INPUT 		2
-#define EXIT_CODE_NOT_SET 		-1
-#define ATOI_NO_NUMBER_CODE 	0
+#define STRING_NOT_SET         NULL
+#define INT_NOT_SET           -1
+#define CORRECT_CODE           EXIT_SUCCESS
+#define INCORRECT_CODE         EXIT_FAILURE
+#define INVALID_USER_INPUT     2
+#define EXIT_CODE_NOT_SET     -1
+#define ATOI_NO_NUMBER_CODE    0
 
 // in a header file we declare functions in the corresponding .c file
-int generateSecretCode(char * secret_key);
-void processInputArguments(int argc, char* const argv[],
-                           char **user_input_attempt_s, char ** user_input_override_s);
+int generateSecretCode( char * secret_key );
+void processInputArguments( int argc, char* const argv[],
+  char **user_input_attempt_s, char ** user_input_override_s );
