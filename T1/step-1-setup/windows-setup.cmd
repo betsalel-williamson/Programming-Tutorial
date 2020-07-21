@@ -13,7 +13,7 @@ setlocal
 echo Checking system 32 or 64 bit...
 reg Query "HKLM\Hardware\Description\System\CentralProcessor\0" | find /i "x86" > NUL && set OS=32BIT || set OS=64BIT
 if %OS%==32BIT (set cygwinUrl=https://cygwin.com/setup-x86.exe
-	echo 32 Bit system found)
+	echo 32 Bit system found
 	set cygwinPath=C:\cygwin)
 if %OS%==64BIT (set cygwinUrl=https://cygwin.com/setup-x86_64.exe
 	echo 64 Bit system found
