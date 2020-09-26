@@ -1,7 +1,7 @@
 # C Programming Tutorial
 This project is a basic C Tutorial. The target audience is for students who may be beginning in C or have already taken an introductory class in C.
 
-This tutorial walks through the creation of a C program that generates a passcode and then a second program that is brute-force passcode cracking program! The tutorials don't assume much and only require that you know how to use your web browser and to copy and paste text into a text file. Unlike other tutorials, it also teaches important best practices like developing build procedures and testing your code. Lastly, you can follow this tutorial on any operating system (Windows, Linux, or Mac).
+This tutorial walks through the creation of a C program that generates a passcode and then a second program that is brute-force passcode cracking program! The tutorials don't assume much. Unlike other tutorials, it teaches important best practices like developing build procedures and testing your code. Lastly, you can follow this tutorial on any operating system (Windows, Linux, or Mac).
 
 The tutorial is located at <https://github.com/betsalel-williamson/C-Programming-Tutorial/wiki>.
 
