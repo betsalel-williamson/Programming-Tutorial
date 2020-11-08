@@ -5,7 +5,11 @@ This tutorial walks through the creation of a program that generates a passcode 
 
 The tutorial is located at <https://github.com/betsalel-williamson/Programming-Tutorial/wiki>.
 
-The author disclaims copyright to this source code.  
+The author disclaims copyright to this source code and the tutorial may be freely shared with the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).  
+
+```
+The tutorial is reproduced or modified from work created and shared by Betsalel (Saul) Williamson and used according to terms described in the Creative Commons 4.0 Attribution License.
+```
 
 From the SQLite source code header:
 
