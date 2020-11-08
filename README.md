@@ -3,7 +3,7 @@ This project is a basic C Tutorial. The target audience is for students who may 
 
 This tutorial walks through the creation of a C program that generates a passcode and then a second program that is brute-force passcode cracking program! The tutorials don't assume much. Unlike other tutorials, it teaches important best practices like developing build procedures and testing your code. Lastly, you can follow this tutorial on any operating system (Windows, Linux, or Mac).
 
-The tutorial is located at <https://github.com/betsalel-williamson/C-Programming-Tutorial/wiki>.
+The tutorial is located at <https://github.com/betsalel-williamson/Programming-Tutorial/wiki>.
 
 The author disclaims copyright to this source code.  
 
