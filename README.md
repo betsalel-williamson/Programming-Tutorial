@@ -1,7 +1,7 @@
 # Programming Tutorial
-This project is a basic programming. The target audience is for students who may be beginning or have already taken an introductory programming class.
+This project is a basic programming. The target audience is for those who may be beginning to learn programming or have already taken an introductory programming course.
 
-This tutorial walks through the creation of a program that generates a passcode and then a second program that is brute-force passcode cracking program! The tutorials don't assume much. Unlike other tutorials, it teaches important best practices like developing build procedures and testing your code. Lastly, you can follow this tutorial on any operating system (Windows, Linux, or Mac).
+This tutorial walks through the creation of a program that generates a passcode and then a second program that is brute-force passcode cracking program! The tutorials don't assume much. Unlike other tutorials, it teaches important best practices like configuraiton control, developing build procedures, and testing your code. Lastly, you can follow this tutorial on any operating system (Windows, Linux, or Mac).
 
 The tutorial is located at <https://github.com/betsalel-williamson/Programming-Tutorial/wiki>.
 
