@@ -54,7 +54,7 @@ if defined CYGWIN_PATH_BIN_SET (
 
 :: then install Git, TCL, Expect, GCC and other developer programs
 echo Updating Cygwin to latest and installing development programs...
-%USERPROFILE%\Downloads\cygwin-setup.exe -qvg -P python27 -P python27-devel -P python27-numpy -P python27-pip -P python36 -P python36-devel -P python36-numpy -P python36-pip -P tcl -P expect -P git -P gcc-g++ -P make -P astyle -P diffutils -P libmpfr-devel -P libgmp-devel -P libmpc-devel -P cmake -P gdb
+%USERPROFILE%\Downloads\cygwin-setup.exe -qvg -P python36 -P python36-devel -P python36-numpy -P python36-pip -P tcl -P expect -P git -P gcc-g++ -P make -P astyle -P diffutils -P libmpfr-devel -P libgmp-devel -P libmpc-devel -P cmake -P gdb
 
 pause
 
