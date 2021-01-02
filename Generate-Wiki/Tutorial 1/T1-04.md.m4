@@ -116,9 +116,9 @@ With `int exit_value = -1;` we next declare a variable to hold our exit code and
 Next, we check with `if ( argc == 2 )` that we only have 2 arguments. __We'll come back to this point of 2 arguments in a bit.__
 
 If we have two arguments, then we find the length of the text passed in with the following lines. First we create a variable to hold our place, then while the current character in the string passed in isn't the null character or `\0` (this is how C lets you know that you've reached the end of your string) we increment `i`:
+
 ```C
 esyscmd({{sed -n '6,8p' ../T1/step-4-hello-world/2-Test-Hello-World/main.c | sed 's/^     /   /g' | ghead -c -1}})
-
 ```
 
 Next we can output the string in `argv` to the Shell with `write(1, argv[1], i);`.

@@ -12,7 +12,7 @@
 # find . -name "*.md" -exec sh -c 'm4 definitions.m4 "$0" > "../../Programming-Tutorial.wiki/$0"' {} \;
 
 # find the md.m4 files
-# for each one, 
+# for each file, 
 # run the m4 command
 # to do this we need to rename the files from *.md.m4 to *.md
 # and place these files in the wiki directory
@@ -20,4 +20,4 @@
 # we call the realpath command here so that it fails fast
 # if the wiki directory does not exist
 
-find . -name "*.md.m4" -exec sh -c 'rename=$(echo "$0" | perl -lane "print /(.*)[.]m4/"); echo "m4 definitions.m4 \"$(realpath $0)\" > \"$(realpath ../../Programming-Tutorial.wiki/$rename)\""' {} \;
+find . -name "*.md.m4" -exec sh -c 'rename=$(echo "$0" | perl -lane "print /(.*)[.]m4/"); echo "m4 definitions.m4 \"$(realpath "$0")\" > \"$(realpath "../../Programming-Tutorial.wiki/$rename")\""' {} \;
