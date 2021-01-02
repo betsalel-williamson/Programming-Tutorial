@@ -54,7 +54,7 @@ Once you have installed Xcode run the following command (open up the terminal Ap
 We will be using Cygwin. You must install it, and the associated packages in order to run through this correctly. If you already have Cygwin installed you should still run this script to install the necessary software.
 
 1. Run Install Setup Batch Script
-   1. Navigate to the following URL <https://github.com/betsalel-williamson/Programming-Tutorial/tree/develop/T1/step-1-setup> 
+   1. Navigate to the following URL <{{}}__project_repo_source_root__{{}}/T1/step-1-setup> 
    1. Click on `windows-setup.cmd`
    1. Click on the `Raw` button 
    1. Open up notepad and copy-and-paste the text into the empty text file.

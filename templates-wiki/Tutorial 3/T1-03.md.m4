@@ -139,11 +139,11 @@ Replace the text between the quotes with a short comment on what you did in this
 If you are already familiar with Git you may have noticed that we did not tell you about pushing the changes or saving the changes back to the cloud. We will be covering this in the later tutorial.
 
 ## References
-1. Quick start guide to Git - https://rogerdudler.github.io/git-guide/ 
-1. Git main website - https://git-scm.com/ 
-1. Highly recommended GUI version of Git - https://www.gitkraken.com/ 
-1. StackOverflow on Git reverting - https://stackoverflow.com/questions/927358/how-to-undo-the-most-recent-commits-in-git#927386 
-1. Answer - __project_repo_root__{{}}/blob/main/T1/step-3-version-control-101 
+1. Quick start guide to Git - <https://rogerdudler.github.io/git-guide/>
+1. Git main website - <https://git-scm.com/>
+1. Highly recommended GUI version of Git - <https://www.gitkraken.com/>
+1. StackOverflow on Git reverting - <https://stackoverflow.com/questions/927358/how-to-undo-the-most-recent-commits-in-git#927386>
+1. Answer - <{{}}__project_repo_source_root__{{}}/T1/step-3-version-control-101>
 
 # Updates
 * Jan 1, 2021 - Generated from m4 template

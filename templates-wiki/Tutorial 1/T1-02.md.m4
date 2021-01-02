@@ -125,7 +125,7 @@ Congrats on modifying your first program and fixing a bug! With the TCL/Expect t
 1. Additional Windows Shell CMDs - https://ss64.com/nt/ 
 1. TCL/Expect main wiki - http://wiki.tcl.tk/ 
 1. Expect tutorials - https://wiki.tcl.tk/11584 
-1. Answer - <{{}}__project_repo_root__{{}}/blob/develop/T1/step-2-command-line-101/hello-world.tcl>
+1. Answer - <{{}}__project_repo_source_root__{{}}/T1/step-2-command-line-101>
 
 # Updates
 * Jan 1, 2021 - Generated from m4 template

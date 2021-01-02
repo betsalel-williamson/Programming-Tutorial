@@ -81,7 +81,7 @@ We can run these using the `exec` function in TCL and the programs `rm` and `gcc
 Next is the code to run our program `main`. For our first test we will `spawn` our program with the argument `"Hello World"`. We can use the `expect` command like in the first step to see that we output the text "Hello World". Finally, we get the exit code of our program with the following code:
 
 ```Tcl
-esyscmd({{sed -n '26,32p' ../src/T1/step-4-hello-world/2-Test-Hello-World/test.tcl | sed 's/^/   /g' | ghead -c -1}})
+esyscmd({{sed -n '33,38p' ../src/T1/step-4-hello-world/2-Test-Hello-World/test.tcl | sed 's/^/   /g' | ghead -c -1}})
 ```
 
 For our second test we only need to test that the exit code is 1.
@@ -222,7 +222,7 @@ Congrats on finishing this last step and for completing the first tutorial! You'
 1. About the write function - https://linux.die.net/man/2/write 
 1. StackOverflow about makefiles - https://stackoverflow.com/questions/2481269/how-to-make-a-simple-c-makefile#2481326
 1. StackOverflow about makefiles 2 - https://stackoverflow.com/questions/1079832/how-can-i-configure-my-makefile-for-debug-and-release-builds#1080180 
-1. Answers - <{{}}__project_repo_root__{{}}/tree/develop/T1/step-4-hello-world>
+1. Answers - <{{}}__project_repo_source_root__{{}}/T1/step-4-hello-world>
 
 # Updates
 * Jan 1, 2021 - Generated from m4 template

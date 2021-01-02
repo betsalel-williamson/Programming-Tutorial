@@ -17,6 +17,7 @@ dnl
 dnl
 pushdef({{__project_repo_root__}}, {{https://github.com/betsalel-williamson/Programming-Tutorial}})dnl
 pushdef({{__project_repo__}}, {{__project_repo_root__{{}}.git}})dnl
+pushdef({{__project_repo_source_root__}}, {{__project_repo_root__{{}}/tree/main/src}})dnl
 pushdef({{__project_repo_name__}}, {{Programming-Tutorial}})dnl
 pushdef({{__code_license_header__}}, {{The author disclaims copyright to this source code.  In place of
 a legal notice, here is a blessing:

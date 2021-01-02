@@ -518,7 +518,7 @@ Congratulations! You've made it through to understanding how the `secretProgram`
 
 ## References
 
-1. Code - <{{}}__project_repo_root__{{}}/tree/develop/T2/step-1-code-gen>
+1. Code - <{{}}__project_repo_source_root__{{}}/T2/step-1-code-gen>
 1. Google style guide - <https://developers.google.com/style/>
 1. Stackoverflow discussion on malloc and strings - <https://stackoverflow.com/questions/41830461/allocating-string-with-malloc/41830820>
 
