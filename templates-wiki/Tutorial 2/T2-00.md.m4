@@ -39,7 +39,7 @@ We will now be teaching more of the basics in C basic other basic programming in
 
 1. About motivation to code - https://thenextweb.com/dd/2015/06/11/8-barriers-to-overcome-when-learning-to-code/
 1. http://aelinik.free.fr/c/
-1. Good additional tutorial - http://archive.oreilly.com/oreillyschool/courses/c/Introduction%20to%20C%20Programming%20v1.pdf
+<!-- No longer active 1/1/2021 1. Good additional tutorial - http://archive.oreilly.com/oreillyschool/courses/c/Introduction%20to%20C%20Programming%20v1.pdf -->
 
 # Updates
 * Jan 1, 2021 - Generated from m4 template

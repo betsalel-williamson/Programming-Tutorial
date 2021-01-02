@@ -1,4 +1,4 @@
-#!/bin/env expect
+#!/usr/bin/env expect
 
 __code_license_header_hash_style__
 

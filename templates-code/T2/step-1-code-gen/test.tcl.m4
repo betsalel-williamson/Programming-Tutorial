@@ -72,6 +72,8 @@ proc testInvalidInput args {
 	}
 }
 
+exec make prep
+
 if {[catch {exec make debug} result] == 0} { 
     testMustProvideCode
     testProvidedCode

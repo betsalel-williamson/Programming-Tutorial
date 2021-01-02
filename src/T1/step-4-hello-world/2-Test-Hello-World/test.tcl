@@ -1,4 +1,4 @@
-#!/bin/env expect
+#!/usr/bin/env expect
 
 # The author disclaims copyright to this source code.  In place of
 # a legal notice, here is a blessing:
@@ -7,9 +7,12 @@
 #    May you share freely, never taking more than you give.
 
 # delete the executable file
-exec rm main
+if { [file exists main] == 1 } {               
+  exec rm main
+}
+
 # compile the file
-exec gcc -w main.c -o main
+exec gcc -w main-fixed.c -o main
 
 ### Test 1 ###
 #

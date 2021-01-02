@@ -1,11 +1,14 @@
-#!/bin/env expect
+#!/usr/bin/env expect
 
 __code_license_header_hash_style__
 
 # delete the executable file
-exec rm main
+if { [file exists main] == 1 } {               
+  exec rm main
+}
+
 # compile the file
-exec gcc -w main.c -o main
+exec gcc -w main-fixed.c -o main
 
 ### Test 1 ###
 #

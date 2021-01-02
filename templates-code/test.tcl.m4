@@ -4,23 +4,6 @@
 
 __code_license_header_hash_style__
 
-# format code
-astyle "./*.c" "./*.h" \
---indent=spaces=2 \
---indent-switches \
---indent-after-parens \
---break-blocks \
---pad-oper \
---pad-comma \
---pad-paren-in \
---break-one-line-headers \
---add-braces \
---add-one-line-braces \
---max-code-length=80 \
---mode=c \
---recursive \
---verbose
-
 # test files
 set t1step1file "./T1/step-1-setup/windows-setup.cmd"
 if {[file exists $t1step1file]} {
