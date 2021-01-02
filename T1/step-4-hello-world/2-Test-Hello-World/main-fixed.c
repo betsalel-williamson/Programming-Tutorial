@@ -1,13 +1,4 @@
 /*
-** The author disclaims copyright to this source code.  In place of
-** a legal notice, here is a blessing:
-**
-**    May you do good and not evil.
-**    May you find forgiveness for yourself and forgive others.
-**    May you share freely, never taking more than you give.
-*/
-
-/*
  * Welcome to your second program in C.
  *
  * In this program you will modify the code from your first program
@@ -26,17 +17,20 @@ int main ( int argc, const char* argv[] ) {
   // In math, the natural numbers start with 1 and increase.
   // Indexes start at 0 and will increase until the number of
   // items in the array minus 1.
-  int exit_value;
+
+  int exit_value = -1;
+  // we set this exit value to be -1 so we can know if the
+  // program exits unexpectedly before being able to set
+  // the value 0, or 1 as will be shown later on.
 
   // ensure the correct number of parameters are used.
-  if ( argc == 2 )
-  {
+  if ( argc == 2 ) {
     int i = 0; // declare a variable to count the length
     // of the text passed in as an argument
 
-    // In C, all text ends with the character '\0'.
-    // To get the length of the text, or string, we
-    // start at the first index
+    // In C, all properly formmated strings end with
+    // the character '\0'. To get the length of the text,
+    // or string, we start at the first index value 0.
     while( argv[1][i] != '\0' ) {
       i = i + 1;
     }

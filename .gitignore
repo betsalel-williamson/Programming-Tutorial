@@ -2,8 +2,8 @@
 *.exe
 *.out
 *.log
-**_**
 *.tclPreview
+*.DS_Store
 **~**
 ~*
 *.o

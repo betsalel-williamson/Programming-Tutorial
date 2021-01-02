@@ -89,4 +89,7 @@ Lastly, I would like to thank my father Tsuri and my dear friend Jordan H. for t
 1. Keeping things simple is harder than it looks, and 
 1. If you only use a hammer everything looks like a nail
 
+# Updates
+* Jan 1, 2021 - Generated from m4 template
+
 [[Previous Page]] | [[Next Page|T1-00]]
