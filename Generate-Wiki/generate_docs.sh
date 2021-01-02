@@ -20,4 +20,4 @@
 # we call the realpath command here so that it fails fast
 # if the wiki directory does not exist
 
-find . -name "*.md.m4" -exec sh -c 'rename=$(echo "$0" | perl -lane "print /(.*)[.]m4/"); echo "m4 definitions.m4 \"$(realpath "$0")\" > \"$(realpath "../../Programming-Tutorial.wiki/$rename")\""' {} \;
+find . -name "*.md.m4" -exec sh -c 'rename=$(echo "$0" | perl -lane "print /(.*)[.]m4/"); m4 definitions.m4 "$(realpath "$0")" > "$(realpath "../../Programming-Tutorial.wiki/$rename")"' {} \;
