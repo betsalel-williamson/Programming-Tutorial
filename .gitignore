@@ -8,3 +8,6 @@
 ~*
 *.o
 *.orig
+**/debug/
+**/release/
+*.stackdump
