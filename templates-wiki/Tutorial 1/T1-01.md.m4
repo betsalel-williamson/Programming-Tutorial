@@ -1,3 +1,4 @@
+__project_under_construction_flag__
 # Step 1: Setup
 
 In every professional computer environment the very first step is always finding the setup instructions and following them very carefully. Again, this is very important. **FOLLOW SETUP INSTRUCTIONS VERY CAREFULLY!**
@@ -35,7 +36,7 @@ Finally, if you're still stuck stop by SERC and see us. We'll be happy to help y
 
 ## Mac
 The following instructions were tested on a clean install of MacOS 10.13. If you are running an earlier version of the Mac operating system the following may work. If it does not work see the subsequent instructions.
-1. Open up `Terminal.app` in the `\Applications\Utilities` folder or use Spotlight to find it. Once it is open type `gcc` and hit the `enter` key. 
+1. Open up `Terminal.app` in the `\Applications\Utilities` folder or use Spotlight to find it. Once it is open type `gcc` and hit the <kbd>enter</kbd> key. 
 1. A dialog window will pop up and ask you to download and install the command line developer tools. 
 1. Click `Install` (estimated 10 min)
 Thats it!
@@ -61,7 +62,7 @@ We will be using Cygwin. You must install it, and the associated packages in ord
    1. Save as `setup.cmd`
    1. To install the program for all uses, right-click `setup.cmd` and select `Run as administrator`.
    1. Follow through the instructions that are displayed on the window that pops up. This script walks through installing Cygwin and the necessary programs for running the rest of the tutorial.
-1. Open up a new command window and type `ls` and then the `Enter` key.
+1. Open up a new command window and type `ls` and then the <kbd>enter</kbd> key.
 You should see a list of files in your current directory. 
 
 If you get the following response:

@@ -1,3 +1,4 @@
+__project_under_construction_flag__
 # Tutorial 1: “Hello World!”
 
 The first step in any computer language has historically been the “Hello World!” example. The purpose of this exercise to focus on a simple task when setting the system up before getting into the programming complexities. Unlike traditional programming tutorials, we are going to be adding an additional step to this, so bear with us. This step provides a framework to automate the actions of compiling, running, and testing your program. This will set you up in the long run for best practices in programming. To download a complete working version of this program visit this GitHub URL <{{}}__project_repo_root__{{}}/>. This tutorial will not get into the details of why different coding languages look different, what variables are and so on. See the later tutorials for more details about programming in C or Python.

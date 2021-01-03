@@ -1,5 +1,7 @@
+__project_under_construction_flag__
 # Step 2: Command Line 101
-We will get started by opening up a shell or terminal window. Find the `Meta` key on your keyboard as the key with the Windows logo on standard PC keyboards, or as the `command` key on Mac keyboards. We will refer to both these keys as the `Meta` key for the rest of this guide.
+
+We will get started by opening up a shell or terminal window. Find the <kbd>meta</kbd> key on your keyboard as the key with the Windows logo on standard PC keyboards, or as the <kbd>command</kbd> key on Mac keyboards. We will refer to both these keys as the <kbd>meta</kbd> key for the rest of this guide.
 
 Welcome to the command line. Things will look a little scary here if this is the first time you’ve opened up what is called a command-line interface (CLI) shell. Usually, modern systems will open a graphical user interface (GUI) shell that operates with icons, apps, clicks, swipes, etc. A CLI shell is a text-based or keyboard-only interface to your computer. Throughout the rest of this guide we will simply refer to the CLI shell as the Shell. **We will be using the word shell to mean the Windows Command Prompt and \*nix CLI shells.** The Shell is a simple text interface to your computer and will open up a new world of commands for you to run on your machine. 
 
@@ -7,9 +9,9 @@ _On the Internet you may sometimes see the *nix system. This is shorthand meanin
 
 On Linux, you open the Shell by opening up the terminal, konsole, shell or prompt (depending on your specific flavor of Linux like Red Hat, Ubuntu, SUSE, Fedora etc.). Each flavor has it's preferred name for the Shell.
 
-On Mac, you open the Shell through the Terminal App by pressing `Meta-Space` and typing in `Terminal`.
+On Mac, you open the Shell through the Terminal App by pressing <kbd>meta</kbd>+<kbd>space</kbd> and typing in `Terminal`.
 
-On Windows operating systems, you open up the Shell through the regular command line by pressing `Meta-R` and typing in `cmd`, or the Power-Shell by pressing `Meta-R` and typing in `powershell`.
+On Windows operating systems, you open up the Shell through the regular command line by pressing <kbd>meta</kbd>+<kbd>R</kbd> and typing in `cmd`, or the Power-Shell by pressing <kbd>meta</kbd>+<kbd>R</kbd> and typing in `powershell`.
 
 Your computer will know about the commands available to the Shell because there is a global variable called `PATH` that stores a list of locations for all the programs that the Shell can use. You may have noticed that in the Windows script example we modified this variable with the `setx` command to ensure that Cygwin was added. What this did was add all of the new programs that Cygwin installed so that we can more easily access them in the Shell. On Linux and Mac, these commands are by default installed in a directory ( `/usr/bin` or `/usr/local/bin` ) that is being watched by the Shell so that all new commands are added.
 

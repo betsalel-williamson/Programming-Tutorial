@@ -41,3 +41,5 @@ pushdef({{__code_license_header_markdown__}}, {{In place of a legal notice, here
 - May you do good and not evil.
 - May you find forgiveness for yourself and forgive others.
 - May you share freely, never taking more than you give.}})dnl
+pushdef({{__project_under_construction_flag__}}, {{# Warning !!! This tutorial is currently under construction... Proceed at your own risk
+}})dnl

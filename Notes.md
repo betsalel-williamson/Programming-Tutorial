@@ -6,3 +6,4 @@
 - [ ] replace `sed` commands with a search for first line and `n` lines afterwards to avoid needing to worry about rewriting examples
 - [ ] need list of pre-reqs for building the source `M4`, `astyle` ...
 - [ ] https://www.tcl.tk/doc/styleGuide.pdf is helpful, add it to the tutorial appendix
+- [ ] implement fix for makefiles, need to have broken and fixed versions so that the wiki instructions make sense

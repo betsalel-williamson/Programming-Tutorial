@@ -1,3 +1,4 @@
+__project_under_construction_flag__
 # Walkthrough of `secretProgram`
 
 We will work through every line of the `secretProgram` and will instruct you how it all works. You should have already completed the first tutorial and downloaded the code. Open up the following two directories at the same time in your text editor program, Windows Explorer, or Finder:

@@ -1,3 +1,4 @@
+__project_under_construction_flag__
 # Step 3: Your First C Program
 
 We will move quickly through this next step, but will show you how to download the Git repository with the answers. 
