@@ -2,7 +2,7 @@ THE FOLLOWING INFORMATION IS IN DRAFT AND NOT YET RATIFIED BY THE PROJECT TEAM T
 
 # Project Goals
 
-Whereby coding tutorials and resources on the Internet may be helpful to an experienced programmer, there can be information that is considered "understood" or "implicit".  This is a barier to learning.  
+Whereby coding tutorials and resources on the Internet may be helpful to an experienced programmer, there can be information that is considered "understood" or "implicit".  This is a barrier to learning.  
 
 Whereby many programming languages and frameworks offer features that are "nice to have" or "cool", these features can be  a stumbling block for those learning to code.  In addition, certain programming languages and frameworks have features that prevent projects from scaling up.
 
@@ -17,9 +17,10 @@ Therefore, the following goals have been established:
 1. Provide a free, public learning resource including virtual or in-person workshops for learners 2 times a year.  This event will be hosted by multiple facilitators and encourage learning and professional growth for all involved.
 1. Identify and fill in gaps in coding tutorials.  Help create order out of the chaos in coding tutorials and other coding resources on the Internet.
 1. For the selected programming languages and frameworks, identify best practices and highlight what features to use and what features to avoid.
-1. Meet as a group at least once a month to review progress, outline action items, and assist each other with finding professional fullfillment through participation in this project.  
-  1. Meeting will have agendas posted at least 5 days in advance of the meeting.  
-  1. Agenda items will be pulled from the GitHub issues for the project or other items submitted to the Project Lead ahead of the meeting and must be shared at least 8 days before the meeting.
+1. Meet as a group at least once a month to review progress, outline action items, and assist each other with finding professional fulfillment through participation in this project.  
+    1. Meetings will hosted on vtools.ieee.org and will be posted online 4 weeks before the date of the event.
+    1. An agenda will be posted at least 5 days in advance of the meeting.  
+    1. Agenda items will be pulled from the GitHub issues for the project or other items submitted to the Project Lead ahead of the meeting and must be shared at least 8 days before the meeting.
 
 ## Minimum requirements to joining as a contributor
 
@@ -81,7 +82,7 @@ The tutorial was initially developed in 2018 by Saul in collaboration with the U
 
 Minutes:
 
-Group discussed initial goals and outline for the collaborative project.  There are items to sort out and explore regarding the future direction of the project including minimu system requirements and expectations for the end user.
+Group discussed initial goals and outline for the collaborative project.  There are items to sort out and explore regarding the future direction of the project including minimum system requirements and expectations for the end user.
 
 Additional ideas discussed included:
 - Jupyter notebooks
@@ -90,7 +91,7 @@ Additional ideas discussed included:
 - We need to outline when to use specific coding tools and when not to
 - The ability to meet in person and provide food in the future is exciting
 - We can use GitHub issues to project manage and keep track of progress and work items
-- Providing workshops are helpful and allow those who are looking to learn the ability to reach out to a person for help.  A lot of Internet forums are percived to be insular and unwelcoming.
+- Providing workshops are helpful and allow those who are looking to learn the ability to reach out to a person for help.  A lot of Internet forums are perceived to be insular and unwelcoming.
 
 
 
@@ -98,7 +99,7 @@ Additional ideas discussed included:
 
 - [ ] make templates to make it easier to manage in the long run
 - [ ] create contribution guidelines
-- [x] invite others to contribue (1/1/2021, on linkedin)
+- [x] invite others to contribute (1/1/2021, on linkedin)
 - [ ] replace `sed` commands with a search for first line and `n` lines afterwards to avoid needing to worry about rewriting examples
 - [ ] need list of pre-reqs for building the source `M4`, `astyle` ...
 - [ ] https://www.tcl.tk/doc/styleGuide.pdf is helpful, add it to the tutorial appendix
