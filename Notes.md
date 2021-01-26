@@ -26,7 +26,7 @@ Therefore, the following goals have been established:
 
 Currently, the project is hosting a virtual "open house" to gauge interest and find volunteers.  
 
-You may request to join the project, but must be approved by the project lead (see below for the current project lead information).  This process will help ensure that the project expectations are understood and that they align with your expectations for what you hope to get out of the project. At a minimum, you must set up a time to talk over video chat with the leadership team and submit a volunteering or other professional resume.
+You may request to join the project, but must be approved by the project lead (see below for the current project lead information).  This process will help ensure that the project expectations are understood and that they align with your expectations for what you hope to get out of the project. At a minimum, you must set up a time to talk over video chat with the leadership team and provide us access to a volunteering or other professional resume/CV.
 
 This project is posted on the Internet and includes open license terms for others to fork the project.  While this is possible, we request that you first ask to join the project before splintering off.
 
