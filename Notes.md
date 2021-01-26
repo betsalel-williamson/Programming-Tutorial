@@ -51,14 +51,14 @@ Founding Members:
 
 Meeting link: https://events.vtools.ieee.org/m/257070
 
-Attendance:
+### Attendance:
 - Andre G.
 - Ava C.
 - Keting Z.
 - Rachel M.
 - Saul W.
 
-Agenda: 
+### Agenda: 
 
 Betsalel (Saul) Williamson, a member of the IEEE Pittsburgh Student Activities Committee, is looking for you, a passionate engineer (at any stage of your career), to volunteer and assist with development of a coding tutorial designed for first-year college students and early-career engineers.
 
@@ -80,11 +80,11 @@ The unique edge for this tutorial is that it has a high attention to detail and 
 
 The tutorial was initially developed in 2018 by Saul in collaboration with the University of Pittsburgh's Student Electronics Resource Center https://sercpitt.weebly.com/ to help students fill in the gaps. The tutorial helped a dozen IEEE students increase their understanding of C and how to build automated tests with TCL.
 
-Minutes:
+### Minutes:
 
 Group discussed initial goals and outline for the collaborative project.  There are items to sort out and explore regarding the future direction of the project including minimum system requirements and expectations for the end user.
 
-Additional ideas discussed included:
+#### Additional ideas discussed included:
 - Jupyter notebooks
 - We don't need to reinvent the wheel. We can use examples available on the Internet, but creating an outline to prioritize materials so that it is easier to learn.
 - The tutorials should leverage what we know and help those who are learning
