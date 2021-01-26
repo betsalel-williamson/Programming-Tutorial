@@ -22,7 +22,7 @@ Therefore, the following goals have been established:
     1. An agenda will be posted at least 5 days in advance of the meeting.  
     1. Agenda items will be pulled from the GitHub issues for the project or other items submitted to the Project Lead ahead of the meeting and must be shared at least 8 days before the meeting.
 
-## Minimum requirements to joining as a contributor
+## Minimum requirements to join as a contributor
 
 Currently, the project is hosting a virtual "open house" to gauge interest and find volunteers.  
 
