@@ -8,7 +8,7 @@ Whereby many programming languages and frameworks offer features that are "nice 
 
 Whereby early-career professionals are familiar with the early stages of learning to code and are looking for outlets to volunteer, there is a need for a project to provide opportunities and a low-pressure environment to network and further professional growth.
 
-Whereby, the college students in the IEEE Pittsburgh Section area have expressed interest in additional coding workshops and resources and the IEEE Pittsburgh Student Activities Committee is committed to:
+Whereby, the college students in the IEEE Pittsburgh Section area have expressed interest in attending coding workshops and access to coding resources and the IEEE Pittsburgh Student Activities Committee is committed to:
 1. Create virtual activities that interest students
 2. Develop and deploy a strategy and plan for first-year undergraduate and graduate student members
 
