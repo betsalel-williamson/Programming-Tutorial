@@ -14,7 +14,7 @@ Whereby, the college students in the IEEE Pittsburgh Section area have expressed
 
 Therefore, the following goals have been established:
 
-1. Provide a free, public learning resource including virtual or in-person workshops for learners 2 times a year.  This event will be hosted by multiple facilitators and encourage learning and professional growth for all involved.
+1. Provide a free, public learning resource including virtual or in-person workshops for learners 2 times a year.  These events will be hosted by multiple facilitators and encourage learning and professional growth for all involved.
 1. Identify and fill in gaps in coding tutorials.  Help create order out of the chaos in coding tutorials and other coding resources on the Internet.
 1. For the selected programming languages and frameworks, identify best practices and highlight what features to use and what features to avoid.
 1. Meet as a group at least once a month to review progress, outline action items, and assist each other with finding professional fulfillment through participation in this project.  
