@@ -20,7 +20,7 @@ Therefore, the following goals have been established:
 1. Meet as a group at least once a month to review progress, outline action items, and assist each other with finding professional fulfillment through participation in this project.  
     1. Meetings will be hosted on vtools.ieee.org and will be posted online 4 weeks before the date of the event.
     1. An agenda will be posted at least 5 days in advance of the meeting.  
-    1. Agenda items will be pulled from the GitHub issues for the project or other items submitted to the Project Lead ahead of the meeting and must be shared at least 8 days before the meeting to be added to the agenda.
+    1. Agenda items will be pulled from the GitHub issues for the project or other items submitted to the Project Lead ahead of the meeting and must be received by the Project Lead at least 8 days before the meeting to be added to the agenda.
 
 ## Minimum requirements to join as a contributor
 
