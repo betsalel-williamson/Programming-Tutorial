@@ -45,7 +45,30 @@ Founding Members:
 
 ## Upcoming:
 
-- Feb 8 2021 https://events.vtools.ieee.org/m/257072
+- March 9 2021 https://events.vtools.ieee.org/m/261965
+
+## February 8, 2021
+
+Meeting link: https://events.vtools.ieee.org/m/257072
+
+### Attendance:
+- Miriam W.
+- Sam D.
+- Avram A.
+- Alexis B.
+- Saul W.
+
+## Agenda:
+
+See below agenda for January 25, 2021.
+
+### Minutes:
+
+The group provided introductions including experiences with coding.  The conversation centered around the soft-skills that would benefit engineers.  There was also the strong feeling that "stick-to-it-ness" is required in this industry and there is often hit-or-miss for events offered to students.  The root cause for students not engaging in events or taking way important skills was not identified.  Nonetheless, an event that holds net benefit for single attendee should be considered a measure of success for the event.  
+
+The outline for how to acheive teaching soft-skills still needs to be outlined.
+
+Alexis shared about the TechGirlz organization.  Saul signed up and will investigate if there is a possible collaboration or way to benefit from the existing efforts by this organization.
 
 ## January 25, 2021
 
