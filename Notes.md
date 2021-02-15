@@ -36,10 +36,14 @@ Project Lead:
 - Saul Williamson
 
 Founding Members:
+- Alexis B.
 - Andre G.
 - Ava C.
+- Avram A.
 - Keting Z.
+- Miriam W.
 - Rachel M.
+- Sam D.
 
 # Meetings
 
