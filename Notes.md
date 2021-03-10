@@ -40,6 +40,7 @@ Founding Members:
 - Andre G.
 - Ava C.
 - Avram A.
+- Jenna D.
 - Keting Z.
 - Miriam W.
 - Rachel M.
